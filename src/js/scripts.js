@@ -7,7 +7,7 @@ const quizData = [
         c: "Anáfase",
         d: "Telófase",
         correct: "b",
-        image: "/websites/redesign/divisaocelular/src/img/metafase.png",
+        image: "img/metafase.png",
         explain: "Durante a metáfase, os cromossomos se alinham no centro da célula, formando a placa metafásica. Isso assegura que cada célula filha receberá uma cópia idêntica dos cromossomos."
     },
     {
@@ -17,7 +17,7 @@ const quizData = [
         c: "Metáfase",
         d: "Anáfase",
         correct: "d",
-        image: "/websites/redesign/divisaocelular/src/img/anafase.png",
+        image: "./img/anafase.png",
         explain: "Na anáfase, as cromátides irmãs são separadas e puxadas para polos opostos da célula. Isso é essencial para que cada célula filha receba a quantidade correta de material genético."
     },
     {
@@ -27,7 +27,7 @@ const quizData = [
         c: "Fuso mitótico",
         d: "Lisossomo",
         correct: "c",
-        image: "/websites/redesign/divisaocelular/src/img/metafase.png",
+        image: "../img/metafase.png",
         explain: "O fuso mitótico é composto por microtúbulos que se ligam aos centrômeros dos cromossomos e os puxam para os polos opostos da célula durante a anáfase."
     },
 

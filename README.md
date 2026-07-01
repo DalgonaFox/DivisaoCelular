@@ -1,4 +1,11 @@
-# Divisão Celular
+<h1 align="center"> Divisão Celular </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
 Esse website é um redesign de um projeto escolar antigo, realizado como avaliação da matéria de Biologia no 3° ano do Ensino Médio.
 > Você pode ver a versão antiga desse site [aqui.](https://mitosemeiose.onrender.com)
 > Você pode visualizar esse projeto no ar [aqui,](https://divisaocelular.onrender.com) e ver o protótipo do Figma [aqui.](https://www.figma.com/design/oA9Kb0sMPynid5efvwsTjU/Mitose-e-Meiose?node-id=0-1&t=qUlKC6PlN7Qppwym-1)

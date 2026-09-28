@@ -24,10 +24,3 @@ Este projeto foi desenvolvido com:
 
 ## Créditos
 Utilizei [esse código](https://gist.github.com/elrumo/3055a9163fd2d0d19f323db744b0a094) no Github para fazer um confete em Javascript.
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-- Email: mila.olisantos@gmail.com
-- GitHub: [DalgonaFox](https://github.com/DalgonaFox)
-- LinkedIn: [Milena Oliveira Santos](https://www.linkedin.com/in/milena-oliveira-santos/).
-https://gist.github.com/elrumo/3055a9163fd2d0d19f323db744b0a094
